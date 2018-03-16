@@ -1,0 +1,714 @@
+# 这个 viminfo 文件是由 Vim 7.4 所产生。
+# 如果想要自行修改请特别小心！
+
+# 文件被写的时候 ‘encoding’ 的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 上个 Search 图案：
+~MSle0/ts
+
+# 上个 替换 Search 图案：
+~MSle0~&M5310
+
+# 最后替换的字符串
+$Module
+
+# 命令行 历史记录 (从新到旧)：
+:q
+:qa
+:wqa
+:w
+:%s/M5310/Module/g
+:q!
+:help tags
+:wq
+:vsp file.c
+:vsp file.c 
+:!grep "usb_major_init" ../* -nR
+:!grep "usb_major_init" * -nR
+:vsp driver.c
+:vsp
+:s
+:Wq
+:Q
+:"q
+:Lq
+:!q
+:1
+:%s@\t@    @g
+:.q
+:vsp ../../plat-lc/include/plat/pcm_switch.h
+:sp ../plat-lc/include/pla
+:vsp ../../plat-lc/include/plat/lowpower_rs232.h
+:redo
+:vsp ds2782.c
+:uu
+:vsp comip-keypad.kl
+:vsp comip-gpio-keys.kl
+:W
+:WQ
+:!date
+:sp fm2018_drv.c
+:file
+:pwd
+:vsp max17211.c
+:vsp ../../../../../../drivers/w1/slaves/w1_ds2780.c
+:vsp ../../../../../../drivers/w1/slaves/w1_ds28e04.c
+:vsp ../../../../../../drivers/w1/slaves/w1_ds2408.c
+:vsp ../../../../../../drivers/w1/slaves/w1_bq27000.c
+:!ls ../ds2484/w1.h
+:vsp ../plat-lc/drivers/misc/ds2484/ds2484.c
+:sp ../plat-lc/include/plat/ds2484.h
+:%s/2482/2484
+:!pwd
+:vsp ../../../../mach-lc186x/board/board-lte26007.c 
+:vsp ../../../
+:Q!
+
+# 查找字符串 历史记录 (从新到旧)：
+? M5310
+?/tj
+?/ts
+? \<setMenuItemVisible\>
+? \<updateMenuOperation\>
+? \<action_show_on_map\>
+? \<action_share_panorama\>
+? \<mMenu\>
+?/press
+? \<onGridItemClick\>
+?/onItemClick
+?/item
+? \<getStartingFragmentClass\>
+? \<mCurrentHeader\>
+? \<mParentHeader\>
+? \<switchToParent\>
+? \<date_time_settings\>
+? \<comip_gpio_chips\>
+? \<comip_gpio_get_direction\>
+? \<comip_gpio_irq_handler\>
+?/chip_add
+? \<gpio_irq_handler\>
+? \<gpio_irq_chip\>
+?/set_chained
+? \<INT_GPIO\>
+? \<generic_handle_irq\>
+? \<generic_handle_irq_desc\>
+? \<__initdata\>
+? \<onOptionsItemSelected\>
+?/onItem
+?/onMenu
+? \<switchToHeaderLocal\>
+? \<isValidFragment\>
+? \<ENTRY_FRAGMENTS\>
+? \<SETTINGS_FOR_RESTRICTED\>
+? \<DateTimeSettingsActivity\>
+? \<PhoneControlService\>
+? \<phonecontrol\>
+? \<disablePhoneControlServices\>
+?/addService
+?/addServices
+? \<ServiceManager\>
+? \<mContentObserver\>
+? \<CONTENT_URI\>
+? \<mSaveInstanceState\>
+? \<max14830_resume_regs\>
+? \<max310x_spi_probe\>
+? \<max310x_spi_driver\>
+? \<MAX310X_NAME\>
+? \<mLocationProvider\>
+
+# 表达式 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 寄存器:
+"0	LINE	0
+	int M5310_TestComm(void);
+"1	LINE	0
+	" ============================================================================
+	" Netrw Directory Listing                                        (netrw v149)
+	"   /home/licunhao/code/source_code/android_kk_lte_auto/leadcore/third-packages/apps/AppsManagerTool/src/com/gh/appsmanagertool2
+	"   Sorted by      name
+	"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+	"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:exec
+	" ============================================================================
+	../
+	./
+	AppInfo.java
+	AppInfoContentObserver.java
+	AppInfoProvider.java
+	AppsManagerActivity.java
+	AppsManagerDBOpenHelper.java
+	AppsManagerHomeActivity.java
+	AppsManagerListBaseAdapter.java
+	AppsManagerLoginActivity.java
+	AppsManagerPasswdActivity.java
+	AppsManagerRunnable.java
+	AppsManagerUserActivity.java
+	AppsManagerUserInfoActivity.java
+	Provider.java
+	UserManager.java
+	UserManagerDB.java
+	Utils.java
+	.swp
+"2	LINE	0
+	" ============================================================================
+	" Netrw Directory Listing                                        (netrw v149)
+	"   /home/licunhao/bin
+	"   Sorted by      name
+	"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+	"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:exec
+	" ============================================================================
+	../
+	./
+	lcherry_pick*
+	lformat*
+	lmake*
+	lpush*
+	setup.sh*
+	.swp
+	setup.sh~
+"3	LINE	0
+	
+"4	LINE	0
+	KBUILD_CFLAGS	+= -l/home/licunhao/文档/documents/开发板/飞凌资料/OKMX6UL用户光盘\（Linux\）20160810/Linux/源码/kernel/linux-3.14.38/include
+"5	LINE	0
+	#include "irq.h"
+"6	LINE	0
+	KBUILD_CPPFLAGS += -Iinclude
+"7	LINE	0
+	$(warning "lch" $(%include))
+"8	LINE	0
+	$(warning "lch" $(%include))
+"9	LINE	0
+	" ============================================================================
+	" Netrw Directory Listing                                        (netrw v149)
+	"   /home/licunhao/code/source_code/android_kk_lte_auto/kernel/linux-3.10/arch/arm/plat-lc/drivers/misc/battery
+	"   Sorted by      name
+	"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+	"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:exec
+	" ============================================================================
+	../
+	./
+	battery.h
+	battery.c
+	bq27x00_battery.c
+	built-in.mod.c
+	ds2782.c
+	ds2788.c
+	ds2781.c*
+	.battery.o.cmd
+	.built-in.o.cmd
+	.ds2781.o.cmd
+	.ds2788.o.cmd
+	Makefile
+	modules.builtin
+	modules.order
+	battery.o
+	built-in.o
+	ds2781.o
+	ds2788.o
+	.swp
+""-	CHAR	0
+	0
+
+# 文件标记:
+'A  196  8  ~/code/source_code/android_kk_lte/kernel/linux-3.10/arch/arm/plat-lc/drivers/misc/battery/max17211.c
+'0  50  0  ~/work/document/fabric-service/README.md
+'1  1  0  ~/bin/setup.sh
+'2  4  0  ~/work/project/M5310/inc/interface.h
+'3  7  0  ~/work/project/M5310/inc/interface.h
+'4  1  0  ~/work/project/M5310/src/interface.c
+'5  14  0  ~/work/document/fabric-service/config/config.yaml
+'6  1  0  ~/work/document/fabric-service/README.md
+'7  112  0  ~/work/document/fabric-service/README.md
+'8  1  0  ~/.gitconfig
+'9  249  57  /usr/share/vim/vim74/doc/tagsrch.txt
+
+# 跳转列表 (从新到旧):
+-'  50  0  ~/work/document/fabric-service/README.md
+-'  1  0  ~/work/document/fabric-service/README.md
+-'  1  0  ~/bin/setup.sh
+-'  4  0  ~/work/project/M5310/inc/interface.h
+-'  1  0  ~/work/project/M5310/inc/interface.h
+-'  7  0  ~/work/project/M5310/inc/interface.h
+-'  5  8  ~/work/project/M5310/inc/interface.h
+-'  1  0  ~/work/project/M5310/src/interface.c
+-'  14  0  ~/work/document/fabric-service/config/config.yaml
+-'  1  0  ~/work/document/fabric-service/config/config.yaml
+-'  112  0  ~/work/document/fabric-service/README.md
+-'  1  0  ~/.gitconfig
+-'  249  57  /usr/share/vim/vim74/doc/tagsrch.txt
+-'  182  9  /usr/share/vim/vim74/doc/tagsrch.txt
+-'  166  0  /usr/share/vim/vim74/doc/tagsrch.txt
+-'  1  0  /usr/share/vim/vim74/doc/tagsrch.txt
+-'  1  0  ~/文档/documents/开发板/飞凌资料/OKMX6UL用户光盘（Linux）20160810/Linux/源码/uboot/暂时不开源.txt
+-'  43  0  ~/下载/device.h
+-'  1  0  ~/下载/device.h
+-'  71  2  ~/下载/logo.c
+-'  1  0  ~/下载/logo.c
+-'  1  0  zipfile:/home/licunhao/下载/李存皓/vim.zip::.vim/.netrwhist
+-'  1  0  ~/下载/李存皓/-MiniBufExplorer-
+-'  2  40  ~/下载/李存皓/-MiniBufExplorer-
+-'  1  0  zipfile:/home/licunhao/下载/李存皓/vim.zip::.viminfo
+-'  17  0  ~/下载/李存皓/vim.zip
+-'  18  0  ~/下载/李存皓/vim.zip
+-'  35  0  ~/下载/李存皓/vim.zip
+-'  1  0  /etc/apt/sources.list
+-'  205  10  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  213  8  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  218  8  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  220  12  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  221  12  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  226  21  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  230  21  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  231  21  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  234  24  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  199  8  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  200  8  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  201  8  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  202  8  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  203  8  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  204  8  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  206  8  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  207  8  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  208  8  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  209  8  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  210  8  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  211  11  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  212  8  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  1  0  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  563  38  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/ActionModeHandler.java
+-'  562  24  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/ActionModeHandler.java
+-'  1  0  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/ActionModeHandler.java
+-'  184  26  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  433  22  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  399  22  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  297  22  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+-'  86  0  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/res/menu/operation.xml
+-'  1  0  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/res/menu/operation.xml
+-'  325  52  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/ActionModeHandler.java
+-'  492  42  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/ActionModeHandler.java
+-'  517  61  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/ActionModeHandler.java
+-'  79  17  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/ActionModeHandler.java
+-'  196  37  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/ActionModeHandler.java
+-'  299  37  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/ActionModeHandler.java
+-'  324  10  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/ActionModeHandler.java
+-'  322  8  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/ActionModeHandler.java
+-'  12  58  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/photos/MultiSelectGridFragment.java
+-'  1  0  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/photos/MultiSelectGridFragment.java
+-'  128  0  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/photos/PhotoSetFragment.java
+-'  69  4  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/photos/PhotoSetFragment.java
+-'  1  0  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/photos/PhotoSetFragment.java
+-'  121  16  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/photos/MultiSelectGridFragment.java
+-'  346  8  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/photos/MultiSelectGridFragment.java
+-'  52  4  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/photos/MultiSelectGridFragment.java
+-'  27  16  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/photos/MultiSelectGridFragment.java
+-'  306  17  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/photos/MultiSelectGridFragment.java
+-'  44  0  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/photos/MultiSelectGridFragment.java
+-'  930  32  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Settings/src/com/android/settings/Settings.java
+-'  904  31  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Settings/src/com/android/settings/Settings.java
+-'  874  22  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Settings/src/com/android/settings/Settings.java
+-'  868  29  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Settings/src/com/android/settings/Settings.java
+-'  863  31  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Settings/src/com/android/settings/Settings.java
+-'  862  22  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Settings/src/com/android/settings/Settings.java
+-'  575  20  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Settings/src/com/android/settings/Settings.java
+-'  493  21  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Settings/src/com/android/settings/Settings.java
+-'  470  34  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Settings/src/com/android/settings/Settings.java
+-'  515  31  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Settings/src/com/android/settings/Settings.java
+-'  514  31  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Settings/src/com/android/settings/Settings.java
+-'  142  19  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Settings/src/com/android/settings/Settings.java
+-'  232  12  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Settings/src/com/android/settings/Settings.java
+-'  237  42  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Settings/src/com/android/settings/Settings.java
+-'  238  34  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Settings/src/com/android/settings/Settings.java
+-'  239  28  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Settings/src/com/android/settings/Settings.java
+-'  263  12  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Settings/src/com/android/settings/Settings.java
+-'  264  60  ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Settings/src/com/android/settings/Settings.java
+
+# 文件内的标记历史记录 (从新到旧):
+
+> ~/work/document/fabric-service/README.md
+	"	50	0
+
+> ~/bin/setup.sh
+	"	1	0
+
+> ~/work/project/M5310/inc/interface.h
+	"	4	0
+	^	5	9
+	.	5	0
+	+	1	22
+	+	2	7
+	+	9	5
+	+	4	16
+	+	5	17
+	+	6	17
+	+	4	0
+	+	6	0
+	+	7	27
+	+	4	9
+	+	5	0
+
+> ~/work/project/M5310/src/interface.c
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/work/document/fabric-service/config/config.yaml
+	"	14	0
+
+> ~/[File List]
+	"	5	0
+	.	3	0
+	+	3	0
+	t	5	0
+
+> ~/-MiniBufExplorer-
+	"	1	13
+	.	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+
+> ~/__Tag_List__
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.gitconfig
+	"	1	0
+
+> /usr/share/vim/vim74/doc/tagsrch.txt
+	"	249	57
+
+> ~/文档/documents/开发板/飞凌资料/OKMX6UL用户光盘（Linux）20160810/Linux/源码/uboot/暂时不开源.txt
+	"	1	0
+
+> ~/下载/device.h
+	"	43	0
+
+> ~/下载/logo.c
+	"	71	2
+
+> ~/下载/李存皓/vim.zip
+	"	5	0
+	.	1	0
+	+	1	0
+	+	1	0
+
+> zipfile:/home/licunhao/下载/李存皓/vim.zip::.vimrc
+	"	11	0
+
+> zipfile:/home/licunhao/下载/李存皓/vim.zip::.viminfo
+	"	1015	1
+
+> ~/下载/李存皓/-MiniBufExplorer-
+	"	1	0
+	.	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+
+> zipfile:/home/licunhao/下载/李存皓/vim.zip::.vim/.netrwhist
+	"	1	0
+
+> /etc/apt/sources.list
+	"	1	0
+
+> ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/MenuExecutor.java
+	"	205	10
+	n	211	11
+
+> ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/gallery3d/ui/ActionModeHandler.java
+	"	563	38
+
+> ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/res/menu/operation.xml
+	"	86	0
+
+> ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/photos/MultiSelectGridFragment.java
+	"	12	58
+
+> ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Gallery2/src/com/android/photos/PhotoSetFragment.java
+	"	128	0
+
+> ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Settings/src/com/android/settings/Settings.java
+	"	930	32
+
+> ~/code/source_code/android_kk_lte/kernel/linux-3.10/arch/arm/plat-lc/drivers/base/gpio/gpio.c
+	"	445	25
+	^	456	48
+
+> ~/code/source_code/android_kk_lte/kernel/linux-3.10/include/linux/irqdesc.h
+	"	89	0
+
+> ~/code/source_code/android_kk_lte/external/chromium/Android.mk
+	"	1	0
+
+> ~/code/source_code/android_kk_lte/kernel/linux-3.10/drivers/gpio/gpio-omap.c
+	"	1069	5
+
+> ~/code/source_code/android_kk_lte/kernel/linux-3.10/kernel/irq/irqdesc.c
+	"	314	16
+
+> ~/code/source_code/android_kk_lte/kernel/linux-3.10/arch/arm/mach-lc186x/generic.c
+	"	137	0
+
+> ~/code/source_code/android_kk_lte/kernel/linux-3.10/Kbuild
+	"	101	0
+
+> ~/code/source_code/android_kk_lte/kernel/linux-3.10/allmake.sh
+	"	1	0
+
+> ~/code/source_code/android_kk_lte/kernel/linux-3.10/make_zImage.sh
+	"	46	1
+
+> ~/code/source_code/android_kk_lte_auto/leadcore/third-packages/apps/Provision/src/com/android/provision/DateTimeSettingsActivity.java
+	"	82	0
+
+> ~/code/source_code/android_kk_lte_auto/frameworks/base/packages/Keyguard/src/com/android/keyguard/KeyguardStatusView.java
+	"	70	0
+
+> ~/code/source_code/android_kk_lte_auto/frameworks/base/packages/Keyguard/res/layout/keyguard_status_view.xml
+	"	78	0
+
+> ~/code/source_code/android_kk_lte_auto/frameworks/base/packages/Keyguard/res/layout/keyguard_status_area.xml
+	"	28	0
+
+> ~/code/source_code/android_kk_lte_auto/leadcore/third-packages/apps/DeskClock/src/com/android/deskclock/DeskClock.java
+	"	199	21
+
+> ~/code/source_code/android_kk_lte/system/core/adb/adb.h
+	"	33	0
+
+> ~/code/source_code/android_kk_lte_auto/leadcore/third-packages/apps/Settings/src/com/android/settings/DateTimeSettings.java
+	"	71	0
+
+> ~/code/source_code/android_kk_lte_auto/leadcore/third-packages/apps/Settings/res/layout/date_time_settings_setupwizard.xml
+	"	35	18
+
+> ~/code/source_code/android_kk_lte_auto/leadcore/third-packages/apps/Settings/res/xml/settings_headers.xml
+	"	265	8
+
+> ~/code/source_code/android_kk_lte_auto/leadcore/third-packages/apps/Settings/src/com/android/settings/Settings.java
+	"	1001	12
+
+> ~/code/source_code/android_kk_lte_auto/leadcore/third-packages/apps/Settings/src/com/android/settings/Settings.jav
+	"	1	0
+
+> ~/code/source_code/android_kk_lte_auto/leadcore/third-packages/apps/Settings/AndroidManifest.xml
+	"	400	16
+
+> ~/code/source_code/android_kk_lte_auto/leadcore/third-packages/apps/DeskClock/res/menu/desk_clock_menu.xml
+	"	29	12
+
+> ~/bin/download_code.sh
+	"	5	66
+	^	5	67
+	.	5	67
+	+	5	67
+
+> ~/code/source_code/licunhao_keil/GH217李存皓代码/从机端/user/src/power_ctrl.c
+	"	106	4
+
+> ~/code/source_code/android_kk_lte/frameworks/base/services/java/com/gh/control/PhoneControlService.java
+	"	47	8
+
+> ~/code/source_code/android_kk_lte/frameworks/base/api/current.txt
+	"	52907	0
+
+> ~/code/source_code/android_kk_lte/frameworks/base/services/java/com/android/server/SystemServer.java
+	"	638	20
+
+> ~/code/source_code/android_kk_lte/frameworks/base/core/java/android/os/ServiceManager.java
+	"	70	56
+
+> ~/code/source_code/android_kk_lte/frameworks/base/services/java/com/gh/control/ControlBase.java
+	"	17	0
+
+> ~/code/source_code/android_kk_lte/frameworks/base/vi
+	"	1	0
+
+> ~/code/source_code/android_kk_lte/frameworks/base/-MiniBufExplorer-
+	"	1	0
+	.	2	0
+	+	2	0
+
+> ~/code/source_code/android_kk_lte/frameworks/base/Android.mk
+	"	271	1
+
+> ~/code/source_code/android_kk_lte/frameworks/base/gh-control/java/com/gh/control/IGHControlService.aidl
+	"	42	4
+
+> ~/code/source_code/android_kk_lte_auto/leadcore/third-packages/apps/AppsManagerTool/src/com/gh/appsmanagertool2/AppsManagerActivity.java
+	"	44	8
+
+> ~/code/source_code/android_kk_lte_auto/leadcore/third-packages/apps/AppsManagerTool/src/com/gh/appsmanagertool2/AppInfoContentObserver.java
+	"	19	34
+
+> rc/com/gh/appsmanagertool2/AppsManagerActivity.java
+	"	1	0
+
+> ~/code/source_code/android_kk_lte_auto/leadcore/third-packages/apps/AppsManagerTool/src/com/gh/appsmanagertool2/AppsManagerRunnable.java
+	"	51	12
+
+> ~/code/source_code/android_kk_lte_auto/leadcore/third-packages/apps/AppsManagerTool/src/com/gh/appsmanagertool2/AppsManagerHomeActivity.java
+	"	39	4
+
+> ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/AppsManagerTool/src/com/gh211/appsmanager/runnable/AppsManagerRunnable.java
+	"	44	8
+
+> ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/AppsManagerTool/src/com/gh211/appsmanager/activity/AppsManagerActivity.java
+	"	42	54
+
+> ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/AppsManagerTool/src/com/gh211/appsmanager/database/AppInfoContentObserver.java
+	"	1	0
+
+> ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/AppsManagerTool/src/com/gh211/appsmanager/database/AppInfoProvider.java
+	"	47	8
+
+> ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/AppsManagerTool/src/com/gh211/appsmanager/database/Provider.java
+	"	7	4
+
+> ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/AppsManagerTool/AndroidManifest.xml
+	"	49	0
+
+> ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/AppsManagerTool/src/com/gh211/appsmanager/database/AppsManagerDBOpenHelper.java
+	"	1	0
+
+> ~/code/source_code/android_kk_lte_auto/leadcore/third-packages/apps/AppsManagerTool/src/com/gh/appsmanagertool2/AppInfoProvider.java
+	"	15	0
+
+> ~/code/source_code/android_kk_lte_auto/leadcore/third-packages/apps/AppsManagerTool/src/com/gh/appsmanagertool2/AppInfo.java
+	"	49	0
+
+> ~/code/source_code/android_kk_lte_auto/kernel/linux-3.10/arch/arm/plat-lc/drivers/misc/max14830/max310x.c
+	"	1242	4
+
+> ~/code/source_code/android_kk_lte/frameworks/base/location/java/android/location/LocationManager.java
+	"	1173	21
+
+> ~/code/source_code/android_kk_lte/leadcore/third-packages/apps/Sos/src/com/gh/sos/MainActivity.java
+	"	210	0
+
+> ~/code/source_code/android_kk_lte/frameworks/base/location/java/android/location/LocationProvider.java
+	"	70	18
+
+> ~/code/source_code/android_kk_lte/frameworks/[File List]
+	"	7	0
+	.	3	0
+	+	3	0
+	t	5	0
+
+> ~/code/source_code/android_kk_lte/frameworks/-MiniBufExplorer-
+	"	1	24
+	.	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+
+> ~/code/source_code/android_kk_lte/frameworks/__Tag_List__
+	"	62	4
+	.	125	0
+	+	125	0
+
+> ~/code/source_code/android_kk_lte/kernel/linux-3.10/drivers/usb/core/usb.c
+	"	1018	10
+
+> ~/code/source_code/android_kk_lte/kernel/linux-3.10/drivers/usb/core/driver.c
+	"	741	11
+
+> ~/code/source_code/android_kk_lte/kernel/linux-3.10/drivers/usb/core/-MiniBufExplorer-
+	"	1	23
+	.	2	0
+	+	2	0
+	+	2	0
+
+> ~/code/source_code/android_kk_lte/kernel/linux-3.10/drivers/usb/core/file.c
+	"	123	0
+
+> ~/code/source_code/android_kk_lte/kernel/linux-3.10/drivers/usb/core/usb
+	"	1	0
+
+> ~/code/source_code/android_kk_lte/kernel/linux-3.10/drivers/usb/core/Makefile
+	"	6	0
+
+> ~/code/source_code/android_kk_lte/kernel/linux-3.10/drivers/usb/Makefile
+	"	1	0
+
+> ~/code/source_code/android_kk_lte/kernel/linux-3.10/drivers/usb/core/buffer.c
+	"	151	0
+
+> ~/code/source_code/android_kk_lte/kernel/linux-3.10/drivers/usb/README
+	"	54	0
+
+> ~/.vimrc
+	"	23	0
+
+> ~/bin/lformat
+	"	29	0
+
+> ~/code/source_code/android_kk_lte/kernel/linux-3.10/arch/arm/plat-lc/drivers/pmic/bq25890_charger.c
+	"	1067	0
+
+> ~/code/source_code/android_kk_lte/kernel/linux-3.10/arch/arm/mach-lc186x/drivers/smmu/comip-smmu.c
+	"	814	3
+
+> ~/code/source_code/android_kk_lte/kernel/linux-3.10/arch/arm/mach-lc186x/board/board-lte26007.c
+	"	193	21
+
+> ~/code/source_code/android_kk_lte/hardware/leadcore/liblight/lights.c
+	"	216	0
+
+> ~/code/source_code/android_kk_lte/kernel/linux-3.10/arch/arm/plat-lc/drivers/leds/leds-aw2013.c
+	"	265	9
+
+> ~/code/source_code/android_kk_lte/kernel/linux-3.10/arch/arm/plat-lc/drivers/leds/Makefile
+	"	4	0
+
+> ~/文档/documents/开发板/飞凌资料/OKMX6UL用户光盘（Linux）20160810/Linux/源码/kernel/linux-3.14.38/arch/powerpc/sysdev/mv64x60_dev.c
+	"	281	8
+
+> ~/文档/documents/开发板/飞凌资料/OKMX6UL用户光盘（Linux）20160810/Linux/源码/kernel/linux-3.14.38/drivers/of/base.c
+	"	893	0
+
+> ~/文档/documents/开发板/飞凌资料/OKMX6UL用户光盘（Linux）20160810/Linux/源码/kernel/linux-3.14.38/drivers/of/[File List]
+	"	5	0
+	.	3	0
+	+	47	0
+	+	3	0
+	t	5	0
+
+> ~/文档/documents/开发板/飞凌资料/OKMX6UL用户光盘（Linux）20160810/Linux/源码/kernel/linux-3.14.38/drivers/of/-MiniBufExplorer-
+	"	1	10
+	.	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0

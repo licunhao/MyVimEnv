@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/licunhao/文档/documents/开发板/飞凌资料/OKMX6UL用户光盘（Linux）20160810/Linux/源码/kernel/linux-3.14.38/drivers'
+let g:netrw_dirhist_2='/home/licunhao/bin'
+let g:netrw_dirhist_3='/home/licunhao/code/source_code/android_kk_lte_auto/leadcore/third-packages/apps/AppsManagerTool/src/com/gh/appsmanagertool2'
+let g:netrw_dirhist_4='/home/licunhao/code/source_code/android_kk_lte/kernel/linux-3.10/arch/arm/plat-lc/drivers/base/gpio'
